@@ -1,0 +1,24 @@
+TODO:
+- Purchase orders
+	- CRUD for purchase orders
+	- CRUD for purchase order lines
+	- View order details
+		- order header details + order lines (with update/delete actions)
+		- action to view order line details
+		- action to add order line directly
+	- Order states (New, Confirmed, Received)
+	- Stock movements (buttons)
+
+- Sales orders
+    - CRUD for sales orders - Done
+    - Working create order - Done
+    - View order details
+    		- order header details + order lines (with update/delete actions) - Need to change routes
+    		- action to view order line details - Need to change routes
+    		- action to add order line directly - Done
+	- CRUD for sales order lines ( with update in header)
+	- Order states (New, Ready to ship, Delivered) + update backend - Pending...
+	- Stock movements (buttons) - Pending...
+
+
++ Navigations, pages, routes, breadcrumbs (description from the top: 'Sales order > All' based on the current location)
